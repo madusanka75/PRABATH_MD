@@ -20,7 +20,22 @@ module.exports = {
   art: process.env.AUTO_RESTART || 'true',
   sudo: process.env.SUDO || '94762280384',
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
-  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
+  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊 *මම ඉන්නවා අනේ 🤫 සද්ද කරන්නෙපා*
+*නිදා ගන්න කියලා හදන්නේ.. කොහෙද බෑ නේ ඔයත් එක්ක හරි කමක් නෑ මොකද වෙන්න ඔනෙ මගෙන් ලමයො.. ඇයි කතා කරේ 😉🤭😁*
+
+*Whatsapp BOT GROUP*☺️🩷✌️
+
+*💫You tube video download ✅* 
+*💫Songs Download ✅* 
+*💫Tiktok video download  ✅* 
+*💫Facebook video download ✅* 
+*💫Instagram video download ✅* 
+*💫Stickers ✅*
+*💫Apk ✅*
+
+*,And More commands...💃🏻*
+
+https://chat.whatsapp.com/IcYb02CvE0o2xFpezINYsw',
   ownername:process.env.OWNER_NAME || 'PRABATH',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
@@ -40,7 +55,22 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || 'put your herokuapp name',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || 'put your heroku_api_key',
   BRANCH: 'main',
-  ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '',
+  ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '*මම ඉන්නවා අනේ 🤫 සද්ද කරන්නෙපා*
+*නිදා ගන්න කියලා හදන්නේ.. කොහෙද බෑ නේ ඔයත් එක්ක හරි කමක් නෑ මොකද වෙන්න ඔනෙ මගෙන් ලමයො.. ඇයි කතා කරේ 😉🤭😁*
+
+*Whatsapp BOT GROUP*☺️🩷✌️
+
+*💫You tube video download ✅* 
+*💫Songs Download ✅* 
+*💫Tiktok video download  ✅* 
+*💫Facebook video download ✅* 
+*💫Instagram video download ✅* 
+*💫Stickers ✅*
+*💫Apk ✅*
+
+*,And More commands...💃🏻*
+
+https://chat.whatsapp.com/IcYb02CvE0o2xFpezINYsw',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   VERSION: process.env.VERSION === undefined ? 'v.5.0.0' : process.env.VERSION,
   LANG: process.env.THEME|| 'PRABATH-MD',
